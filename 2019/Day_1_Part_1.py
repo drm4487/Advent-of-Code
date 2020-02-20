@@ -1,5 +1,5 @@
 # ################################################################################
-# NAME : Day_1.py
+# NAME : Day_1_Part_1.py
 # DATE STARTED : Feb 18, 2020
 # AUTHORS : Dale Mercado
 # PURPOSE : Advent of code 2019 Day 1 "Tyranny of the Rocket Equation"
